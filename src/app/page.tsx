@@ -6,7 +6,7 @@ export default function Home() {
       <main className="flex min-h-screen w-full max-w-3xl flex-col items-center justify-between py-32 px-16 bg-white dark:bg-black sm:items-start">
         <img
           className="dark:invert"
-          src="/next.svg"
+          src="next.svg"
           alt="Next.js logo"
           width={100}
           height={20}
@@ -28,7 +28,7 @@ export default function Home() {
               href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
               className="font-medium text-zinc-950 dark:text-zinc-50"
             >
-              Onakasuita!
+              Onakasuita!!
             </a>{" "}
             center.
           </p>
@@ -42,7 +42,7 @@ export default function Home() {
           >
             <img
               className="dark:invert"
-              src="/vercel.svg"
+              src="vercel.svg"
               alt="Vercel logomark"
               width={16}
               height={16}
